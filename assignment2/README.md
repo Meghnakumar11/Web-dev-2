@@ -7,3 +7,5 @@ Subject: Web Development II
 Submitted for internal evaluation.
 ## Project Description
 This project demonstrates asynchronous JavaScript using Fetch API.
+## How to Run
+Open index.html in a browser and search for a city.
