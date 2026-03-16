@@ -41,3 +41,6 @@ and client-side storage, which are essential concepts in modern web development.
 
 ### Async & Await
 Async/await simplifies handling of promises in JavaScript.
+
+### Event Loop
+JavaScript uses an event loop to handle asynchronous operations.
