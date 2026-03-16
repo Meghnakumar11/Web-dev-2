@@ -44,3 +44,5 @@ Async/await simplifies handling of promises in JavaScript.
 
 ### Event Loop
 JavaScript uses an event loop to handle asynchronous operations.
+
+**Assignment completed and ready for submission.**
