@@ -38,3 +38,6 @@ issues. Appropriate error messages are displayed to the user.
 ## 8. Conclusion
 This project helps in understanding asynchronous programming, API integration,
 and client-side storage, which are essential concepts in modern web development.
+
+### Async & Await
+Async/await simplifies handling of promises in JavaScript.
