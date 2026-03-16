@@ -1,3 +1,4 @@
+// JavaScript logic for fetching weather data
 const apiKey = "b4ef87fc37c01f79754946b1846a616b";
 const logBox = document.getElementById("log");
 function log(message){
